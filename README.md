@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TekGeek
+- 👋 Hi, I’m @Tek
 - 👀 I’m interested in ... Programming, Level Designing, Drawing & Writing
 - 🌱 I’m currently studying ... The Ruby Programming Languge & Expert Python programming with the Pygame library
 - 💞️ I’m looking to collaborate on ...
